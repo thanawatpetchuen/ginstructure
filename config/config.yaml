@@ -1,0 +1,4 @@
+env: develop
+service-name: gin
+http:
+  port: 3000
